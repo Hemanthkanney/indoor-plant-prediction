@@ -106,8 +106,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Your Name**  
-  [Your GitHub Profile](https://github.com/your-username)
-```
+- **Kanney Sai Hemanth**  
+  [Hemanthkanney](https://github.com/Hemanthkanney)
+
 
 
