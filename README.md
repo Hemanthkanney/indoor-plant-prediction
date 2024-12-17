@@ -1,4 +1,3 @@
-Here's a `README.md` file for your project that includes installation instructions, usage, and description of the project:
 
 ### **README.md**
 
@@ -111,18 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   [Your GitHub Profile](https://github.com/your-username)
 ```
 
-### **Explanation of the README**
 
-- **Project Overview**: Describes what the project does and the purpose of the web application.
-- **Technologies Used**: Lists the libraries and technologies used in the project (Flask, scikit-learn, etc.).
-- **Installation Instructions**: Guides the user on how to clone the repository, set up a virtual environment, install dependencies, and run the application.
-- **Model Preparation**: Explains how to prepare the machine learning model (`model.pkl`) by training it and saving it for later use.
-- **Running the Application**: Provides the steps to run the Flask application locally.
-- **Project Structure**: Details the file and folder structure of the project for clarity.
-- **Requirements**: Lists the required dependencies and how to install them using `requirements.txt`.
-- **License**: Includes licensing information (you can modify it based on your preference).
-- **Author**: Credits the project author.
-
----
-
-Let me know if you need more customization or further details for your README file! 😊
